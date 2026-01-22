@@ -1,0 +1,1 @@
+{"version":3,"file":"8-enum.d.ts","sourceRoot":"","sources":["../../src/8-enum.ts"],"names":[],"mappings":"AAAA,oBAAY,aAAa;IACrB,OAAO,YAAY;IACnB,IAAI,SAAS;IACb,QAAQ,aAAa;CAOxB;AAED,MAAM,MAAM,QAAQ,GAAG;IACnB,EAAE,EAAE,MAAM,CAAC;IACX,IAAI,EAAE,MAAM,CAAC;IACb,IAAI,EAAE,aAAa,CAAA;CACtB,CAAA"}
