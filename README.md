@@ -1,17 +1,16 @@
 # My First Encounter with TypeScript 🚀
 
-This repository is a personal learning space for documenting my first encounter with **TypeScript**.
+This repository is a personal learning space to documenting with **TypeScript**.
 
-The goal of this repo is simple:
-to understand how TypeScript works and how its type system changes the way I think about writing code.
+So, the goal is to understand how TypeScript works and how its type system changes the way I think about writing code.
 
 It’s a playground, a notebook, and sometimes a mess, but an intentional one.
 
 ## Repository structure
 
-- Each folder represents a learning stage or topic
+- Each folder represents a learning stage or material
 - Some subfolders are independent mini-projects
-- Compiled JavaScript may be included for learning and comparison purposes
+- Compiled JavaScript may be included for learning and comparison purposes (in "/dist" folder)
 
 Details about each folder live inside their respective directories.
 
