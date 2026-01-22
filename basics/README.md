@@ -1,6 +1,6 @@
 ## BASIC MATERIAL
 
-This course's subject contains:
+Open  "/tests" and "/src" to view the materials or supporting-materials. This course's subject contains:
 
 ```
 1. "Hello World"
