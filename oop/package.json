@@ -1,0 +1,31 @@
+{
+  "name": "typescript-oop",
+  "version": "1.0.0",
+  "description": "Belajar Typescript Materi OOP",
+  "keywords": [
+    "ts",
+    "oop"
+  ],
+  "license": "ISC",
+  "author": "Dimas Ramadhan Syahputra",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.28.6",
+    "@babel/preset-typescript": "^7.28.5",
+    "@jest/globals": "^30.2.0",
+    "@types/jest": "^30.0.0",
+    "babel-jest": "^30.2.0",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.6",
+    "typescript": "^5.9.3"
+  }
+}
