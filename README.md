@@ -16,6 +16,8 @@ Details about each folder live inside their respective directories.
 
 > Mistakes are part of the process and they stay visible on purpose.
 
-*[All command-line explanations are in Indonesian 🇮🇩]*
+__All command-line explanations are in Indonesian [🇮🇩].__
+
+Following the tutorials from [Programmer Zaman Now](https://www.youtube.com/watch?v=C_C64faSO4c&list=PL-CtdCApEFH9jIdygiF4vTIs4Xpo_cHhC).
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
