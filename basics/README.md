@@ -1,6 +1,6 @@
 ## BASIC MATERIAL
 
-Open "/tests" and "/src" to view the materials or supporting-materials. This course's subject contains:
+Open `/tests` and `/src` to view the materials or supporting-materials. This course's subject contains:
 
 ```
 1. "Hello World"
@@ -25,4 +25,4 @@ Mathematical operators, comparison, logic, template strings, chaining, with stat
 
 The main difference is that TypeScript is strongly typed: we must define and expect specific data types for variables and parameters. However, if you want behavior similar to JavaScript where variables/parameters are flexible, you can use the "any" type, but with discipline.
 
-_If you want to see the main differences between TypeScript and JavaScript syntax, you can inspect the compiled files in the /dist folder, but it’s quite messy._
+_If you want to see the main differences between TypeScript and JavaScript syntax, you can inspect the compiled files in the `/dist` folder, but it’s quite messy._

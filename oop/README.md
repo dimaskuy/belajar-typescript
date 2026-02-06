@@ -1,6 +1,6 @@
 ## Object-Oriented Programming in TypeScript
 
-Open /tests and /src to view the materials or supporting materials. This course focuses on Object-Oriented Programming (OOP) in TypeScript, covering the following topics:
+Open `/tests` and `/src` to view the materials or supporting materials. This course focuses on Object-Oriented Programming (OOP) in TypeScript, covering the following topics:
 
 ```
 1. Class
@@ -29,4 +29,4 @@ Open /tests and /src to view the materials or supporting materials. This course 
 
 The main advantage of TypeScript in OOP is its strongly typed system, which helps prevent common runtime errors and improves code readability and maintainability. Features such as interfaces, abstract classes, visibility modifiers, and type casting are fully supported.
 
-_If you want to see the main differences between TypeScript and JavaScript syntax, you can inspect the compiled files in the /dist folder, but it’s quite messy._
+_If you want to see the main differences between TypeScript and JavaScript syntax, you can inspect the compiled files in the `/dist` folder, but it’s quite messy._
